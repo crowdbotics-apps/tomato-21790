@@ -8,7 +8,6 @@ import SideMenu from './sideMenu';
 import NotificationList71171605Navigator from '../features/NotificationList71171605/navigator';
 import Messaging69171604Navigator from '../features/Messaging69171604/navigator';
 import BlankScreen69164210Navigator from '../features/BlankScreen69164210/navigator';
-import SignUp169164209Navigator from '../features/SignUp169164209/navigator';
 import BlankScreen67162276Navigator from '../features/BlankScreen67162276/navigator';
 import BlankScreen66162275Navigator from '../features/BlankScreen66162275/navigator';
 import UserProfile153564Navigator from '../features/UserProfile153564/navigator';
@@ -34,7 +33,6 @@ const AppNavigator = {
 NotificationList71171605: { screen: NotificationList71171605Navigator },
 Messaging69171604: { screen: Messaging69171604Navigator },
 BlankScreen69164210: { screen: BlankScreen69164210Navigator },
-SignUp169164209: { screen: SignUp169164209Navigator },
 BlankScreen67162276: { screen: BlankScreen67162276Navigator },
 BlankScreen66162275: { screen: BlankScreen66162275Navigator },
 UserProfile153564: { screen: UserProfile153564Navigator },
